@@ -1,0 +1,35 @@
+site_name: SE Skills
+site_url: https://se-skills.com/
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - content.tabs.link
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+
+nav:
+  - Home: index.md
+  - Coding: coding.md
+  - System Design: system-design.md
+  - Soft Skills: soft-skills.md
+  - System Engineering: system-engineering.md
+  - Tools:
+    - System Architect: tools/architect.md
+    - ISO 15288 Systems Engineering Skill: tools/iso-15288-system-engineering.md
+    - Systems Engineering MCDA Skill: tools/systems-engineering-mcda.md

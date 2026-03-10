@@ -1,0 +1,6 @@
+mkdocs
+mkdocs-material
+google-generativeai
+typer
+rich
+pydantic

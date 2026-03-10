@@ -1,0 +1,4 @@
+interface:
+  display_name: "ISO 15288 Systems Engineering"
+  short_description: "Apply ISO 15288 lifecycle engineering."
+  default_prompt: "Use $iso-15288-system-engineering to structure this systems engineering task with ISO/IEC/IEEE 15288 lifecycle processes."

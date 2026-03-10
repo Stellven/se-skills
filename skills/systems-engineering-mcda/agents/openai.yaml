@@ -1,0 +1,4 @@
+interface:
+  display_name: "Systems Engineering MCDA"
+  short_description: "Run MCDA trade studies for system options."
+  default_prompt: "Use $systems-engineering-mcda to evaluate these system alternatives with explicit criteria, weights, rankings, and sensitivity analysis."
