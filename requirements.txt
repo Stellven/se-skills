@@ -4,3 +4,7 @@ google-generativeai
 typer
 rich
 pydantic
+python-pptx
+python-docx
+pypdf
+PyMuPDF
